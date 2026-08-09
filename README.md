@@ -127,14 +127,6 @@ Analysis of microbial community composition and functional potential in polluted
 
 ---
 
-## 📫 Contact
-
-- GitHub: [DonyaAfsharJahanshahi](https://github.com/DonyaAfsharJahanshahi)
-- Email: YOUR_EMAIL
-- LinkedIn: YOUR_LINKEDIN
-- Google Scholar: YOUR_GOOGLE_SCHOLAR
-
----
 
 <div align="center">
 
