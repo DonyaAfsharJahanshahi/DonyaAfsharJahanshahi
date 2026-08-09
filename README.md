@@ -111,17 +111,7 @@ Annotation and screening of genes and proteins associated with biodegradation pa
 ### 3. Microbial Diversity Analysis in Plastic-Polluted Environments
 Analysis of microbial community composition and functional potential in polluted ecosystems.
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonyaAfsharJahanshahi&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonyaAfsharJahanshahi&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
