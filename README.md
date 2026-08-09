@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Donya Afshar Jahanshahi
 
-### 🧬 Bioinformatics PhD | Postdoctoral Fellow | Metagenomics & Enzyme Discovery
+### 🧬 PhD in Bioinformatics | Postdoctoral Fellow | Metagenomics & Enzyme Discovery
 
 **PhD in Bioinformatics, University of Tehran**  
 **Postdoctoral Fellow at the Institute of Biochemistry and Biophysics (IBB), University of Tehran**
