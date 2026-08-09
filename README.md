@@ -13,6 +13,10 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:donya.afsharjahanshahi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/donya-afshar-jahanshahi-ph-d-4b622b227)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=0n7V14sAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9305-1090)
+[![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge)](https://www.scopus.com/authid/detail.uri?authorId=57209643716)
+[![LOOP](https://img.shields.io/badge/LOOP-Research%20Profile-6A5ACD?style=for-the-badge)](https://loop.frontiersin.org/people/3235786/overview)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Donya-Jahanshahi)
 
 </div>
 
